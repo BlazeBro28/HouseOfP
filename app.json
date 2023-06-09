@@ -1,0 +1,7 @@
+{
+  "name": "HouseOfP",
+  "description": "Node.js HouseOfP instance",
+  "repository": "https://github.com/BrianWalczak/ProxyHouse",
+  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
+  "keywords": ["tomp", "ultraviolet"]
+}
