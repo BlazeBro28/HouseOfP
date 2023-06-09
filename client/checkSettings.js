@@ -30,7 +30,7 @@ function getSetting(mode) {
 }
 
 if(getSetting('page_disguiser') == true) {
-	document.title = "Classes";
+	document.title = "Google Search";
 	
 	document.getElementById("favicon").href = "https://ssl.gstatic.com/classroom/favicon.png"
 }

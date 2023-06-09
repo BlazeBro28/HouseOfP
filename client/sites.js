@@ -27,7 +27,7 @@ function launch(link) {
 
 			//Checking if the disguiser is enabled
 			if(getSetting('page_disguiser') == true) {
-				win.document.title = "Classes";
+				win.document.title = "Google Search";
 				
 				win.document.getElementsByTagName("head")[0].innerHTML += '<link id="favicon" rel="shortcut icon" type="image/png" href="https://ssl.gstatic.com/classroom/favicon.png" />'
 			}
